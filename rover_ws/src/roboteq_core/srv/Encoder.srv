@@ -1,0 +1,4 @@
+bool absolute
+int8 motor_id
+---
+int64 encoder_val
